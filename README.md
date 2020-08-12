@@ -9,4 +9,4 @@ Neste sessão serão inseridos conhecimentos vindos de outras fontes, cursos, li
 
 Bora lá??
 
-**REFERENCIAS: ** Blog Sigmoidal; Udemy; Data Science do zero; Python; Data Science. 
+**REFERENCIAS:** Blog Sigmoidal; Udemy; Data Science do zero; Python; Data Science. 
