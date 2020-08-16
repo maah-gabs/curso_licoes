@@ -15,4 +15,4 @@ Bora lá??
 
 ## Estudos 
 
-1. **Semana Python - Sigmoidal**: (https://bit.ly/3h5SQXK) 
+1. **Semana Python - Sigmoidal**: (https://github.com/maah-gabs/curso_licoes/blob/master/SemanaPython.ipynb) 
