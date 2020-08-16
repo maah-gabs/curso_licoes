@@ -11,11 +11,8 @@ Minhas principais fontes de conhecimento, serão anexadas abaixo e ficarão disp
 
 Bora lá??
 
-*REFERENCIAS:* Blog Sigmoidal; Udemy; Data Science do zero; Python; Data Science. 
+*REFERENCIAS:* Blog Sigmoidal; Udemy; Data Science do zero; Python; Data Science; Canal Youtube Sigmoidal. 
 
-# Canais de Aprendizagem:#
+## Estudos 
 
-1. **Blog Sigmoidal**: 
-2. **Cursos Udemy** : 
-3. **Canal Youtube - Sigmoidal** : 
-4. **Livros**: 
+1. **Semana Python - Sigmoidal**: (https://bit.ly/3h5SQXK) 
