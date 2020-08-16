@@ -17,3 +17,4 @@ Bora lá??
 ### Sigmoidal:
 
 1. **Semana Python - Sigmoidal**: (https://bit.ly/2E83jDa) 
+2. **Pyrentena - "Python p/ Iniciantes"**: (https://bit.ly/3g3ckL5)
