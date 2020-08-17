@@ -18,3 +18,4 @@ Bora lá??
 
 1. **Semana Python - Sigmoidal**: (https://bit.ly/2E83jDa) 
 2. **Pyrentena - "Python p/ Iniciantes"**: (https://bit.ly/3g3ckL5)
+3. **Pyrentena - "Introdução ao Pandas"**:(https://bit.ly/316NLsq)
